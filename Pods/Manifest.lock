@@ -1,0 +1,28 @@
+PODS:
+  - Alamofire (4.8.2)
+  - Kingfisher (5.7.0)
+  - SkeletonView (1.7)
+  - SwiftSoup (2.2.0)
+
+DEPENDENCIES:
+  - Alamofire
+  - Kingfisher
+  - SkeletonView
+  - SwiftSoup
+
+SPEC REPOS:
+  https://github.com/cocoapods/specs.git:
+    - Alamofire
+    - Kingfisher
+    - SkeletonView
+    - SwiftSoup
+
+SPEC CHECKSUMS:
+  Alamofire: ae5c501addb7afdbb13687d7f2f722c78734c2d3
+  Kingfisher: c7d211b54f1f30d8060aadab177d52b4349c825b
+  SkeletonView: 7d7378731b708f8a6e6b1ffefb68cc3903f10a03
+  SwiftSoup: 230991361c5ba249d140161860a3864a28b63860
+
+PODFILE CHECKSUM: 0a7898b5429761d5e199643b2b1b36bfdc112f94
+
+COCOAPODS: 1.7.3
